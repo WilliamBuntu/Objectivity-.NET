@@ -37,7 +37,7 @@ def run_quiz():
     # Initialize the score
     score = 0
 
-    # Loop through each question
+    # Loop through each question!
     for i, question in enumerate(questions):
         # Print the question
         print(f"\nQuestion {i+1}: {question['question']}")
